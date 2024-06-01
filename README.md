@@ -8,7 +8,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=truegreatvoid&bg_color=000000&color=8644A2&line=8644A2&point=8644A2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=truegreatvoid&bg_color=000000&color=8644A2&line=8644A2&point=8644A2&area=true&hide_border=true)]
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
