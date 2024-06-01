@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=truegreatvoid&bg_color=000000&color=8644A2&line=8644A2&point=8644A2&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=truegreatvoid&bg_color=000000" alt="GitHub Activity Graph" />
 </div>
 
 
