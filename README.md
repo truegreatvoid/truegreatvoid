@@ -1,12 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8644A2&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8644A2&size=35&center=true&vCenter=true&width=1000&lines=Yo,+it's+me+Tiago+Xavier;Welcome+to+my+Git!;Enjoy!)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=truegreatvoid&show_icons=true&count_private=true&hide_border=true&title_color=8644A2&icon_color=8644A2&text_color=c9d1d9&bg_color=0d1117" alt="Tiago Xavier github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truegreatvoid&layout=compact&hide_border=true&title_color=8644A2&text_color=8644A2&bg_color=0d1117&langs_count=10&bar_color=8644A2" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=truegreatvoid&bg_color=000000" alt="GitHub Activity Graph" />
 </div>
@@ -46,15 +37,3 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-  <br>
-  <p align="center" style="color:#8644A2;"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{truegreatvoid}/count.svg" style="filter: invert(35%) sepia(65%) saturate(300%) hue-rotate(240deg);" />
-  </p> 
-  <br>
-</div>
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8644A2&height=120&section=footer"/>
