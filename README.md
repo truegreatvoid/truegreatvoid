@@ -3,10 +3,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=dracula" />
-</p>
-
 <div align="center">  
   <a href="https://www.instagram.com/euvtiago/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%236A0DAD?style=for-the-badge&logo=instagram&logoColor=white">
