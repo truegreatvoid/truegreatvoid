@@ -13,7 +13,14 @@
   </a>
 </div>
  
- 
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=radical&title=Commits,Followers,Repositories,Experience&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=truegreatvoid&theme=radical&fire=689D6A&currStreakNum=689D6A)](https://git.io/streak-stats)
+
+</div>
+
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
