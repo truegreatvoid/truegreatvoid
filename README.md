@@ -3,7 +3,7 @@
 
  <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=radical&title=Commits,MultiLanguage,Followers,Repositories&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=radical&title=Commits,MultiLanguage,Followers,Repositories&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -39,10 +39,6 @@
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 
 #### Estudando no momento:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
