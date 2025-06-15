@@ -17,8 +17,7 @@
     </a>
     <a href="https://github.com/truegreatvoid/Perfect_world_refino"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=Perfect_world_refino&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="Perfect_world_refino">
     </a>
-    <a href="https://github.com/truegreatvoid/grafana-prometheus-redisinsight-services"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=grafana-prometheus-redisinsight-services&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="grafana-prometheus-redisinsight-services">
-    </a>
+
     
   </p>
   <a href="https://github.com/truegreatvoid?tab=repositories"><img alt="Todos Repositórios" title="Ver todos os projetos" src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20Projetos-689D6A?style=for-the-badge&logoColor=white&logo=repo"/></a>
