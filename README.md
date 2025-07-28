@@ -3,7 +3,7 @@
 
  <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=radical&title=Commits,MultiLanguage,Followers,Repositories&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=radical&title=Commits,MultiLanguage,Followers,Repositories,Experience,PullRequest&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
