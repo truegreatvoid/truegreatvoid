@@ -11,6 +11,8 @@
   <summary><h4>Projetos</h4></summary>
 
   <p align="center">
+    <a href="https://github.com/truegreatvoid/model"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=model&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="model">
+    </a>
     <a href="https://github.com/truegreatvoid/technical-tooling-reference"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=technical-tooling-reference&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="technical-tooling-reference">
     </a>
     <a href="https://github.com/truegreatvoid/backend-API-tests"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=backend-API-tests&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="backend-API-tests">
