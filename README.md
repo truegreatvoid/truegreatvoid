@@ -73,12 +73,8 @@
 
 ## Contatos:
 
-<div> 
-<a href="https://x.com/koy1and" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=x&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/tiago-xavier-97519016b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.instagram.com/euvtiago/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="[https://www.linkedin.com/in/tiago-xavier-97519016b/](https://www.linkedin.com/in/tiagoxavierandrade/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/euvtiago/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div>&nbsp;&nbsp;
  
