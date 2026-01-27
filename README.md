@@ -3,7 +3,7 @@
 
  <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=truegreatvoid&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=truegreatvoid&theme=radical)](https://gh-trophy.cdnsoft.net)
 
 </div>
 
