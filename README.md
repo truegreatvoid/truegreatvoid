@@ -1,16 +1,53 @@
-![Status](./profile-3d-contrib/profile-night-view.svg)
 
-
- <div align="center">
+<div align="center" style="margin-bottom:100px">
   
-[![trophy](https://gh-trophy.cdnsoft.net/?username=truegreatvoid&theme=radical)](https://gh-trophy.cdnsoft.net)
+  ![Status](./profile-3d-contrib/profile-gitblock.svg)
+
+  [![trophy](https://gh-trophy.cdnsoft.net/?username=truegreatvoid&theme=discord&column=4&margin-w=15&margin-h=15)](https://gh-trophy.cdnsoft.net)
+  
+  <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=truegreatvoid&theme=radical&mode=weekly" />
+
+#### Stack principal
+
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+
+#### UI / Styling
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+
+#### Ferramentas
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+
+#### Estudando
+
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=prisma&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 
 </div>
 
 <details open> 
   <summary><h4>Projetos</h4></summary>
-
   <p align="center">
+    <a href="https://github.com/truegreatvoid/ideasandbox"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=ideasandbox&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="ideasandbox">
+    </a>
     <a href="https://github.com/truegreatvoid/model"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=model&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="model">
     </a>
     <a href="https://github.com/truegreatvoid/technical-tooling-reference"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=truegreatvoid&repo=technical-tooling-reference&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="technical-tooling-reference">
@@ -26,55 +63,16 @@
   <a href="https://github.com/truegreatvoid?tab=repositories"><img alt="Todos Repositórios" title="Ver todos os projetos" src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20Projetos-689D6A?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+<div align="center">
 
+## Contatos
 
+<a href="https://www.linkedin.com/in/tiagoxavierandrade/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/euvtiago/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-<div  align="center" style="margin-bottom:100px">
- 
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=truegreatvoid&theme=radical&mode=weekly" />
-
- </div>
-  &nbsp;
- &nbsp;
- <div  align="center" style="margin-bottom:100px">
-
- &nbsp;
- &nbsp;
-
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-#### Estudando no momento:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-#### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-005C84.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-005C84.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-005C84.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-#### Ferramentas:
-![VScode](https://img.shields.io/badge/vscode-F24E1E?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/ubuntu-F24E1E?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Github](https://img.shields.io/badge/Github-F24E1E?style=for-the-badge&logo=Github&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-F24E1E?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/-amazon-F24E1E?style=for-the-badge&logo=amazon&=Github&labelColor=white)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-F24E1E?style=for-the-badge&=Github&logo=bootstrap&labelColor=white)&nbsp;
-
-
-&nbsp;
-&nbsp;
-
-## Contatos:
-
-<a href="https://www.linkedin.com/in/tiagoxavierandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.instagram.com/euvtiago/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-</div>&nbsp;&nbsp;
- 
+</div>
