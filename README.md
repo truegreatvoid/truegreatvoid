@@ -3,7 +3,7 @@
   
   ![Status](./profile-3d-contrib/profile-gitblock.svg)
 
-  [![trophy](https://gh-trophy.cdnsoft.net/?username=truegreatvoid&theme=discord&column=4&margin-w=15&margin-h=15)](https://gh-trophy.cdnsoft.net)
+  [![trophy](https://gh-trophy.cdnsoft.net/?username=truegreatvoid&theme=radical&column=4&margin-w=15&margin-h=15)](https://gh-trophy.cdnsoft.net)
   
   <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=truegreatvoid&theme=radical&mode=weekly" />
 
